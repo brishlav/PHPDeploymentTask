@@ -1,0 +1,14 @@
+﻿<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>967c9202-9dc5-449e-8170-be58b6d9db8d</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>8.3</RuntimeVersion>
+    <RootNamespace>PHPDeploymentTask</RootNamespace>
+    <WebRoot />
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Remove="PHPDeploymentBrishlav.PublishSettings" />
+  </ItemGroup>
+</Project>
